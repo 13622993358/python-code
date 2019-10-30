@@ -2623,3 +2623,4 @@ INFO _internal.py:122 192.168.3.31 - - [18/Sep/2019 17:37:14] "POST /uploadImg H
 INFO _internal.py:122 192.168.3.31 - - [18/Sep/2019 17:37:20] "POST /uploadImg HTTP/1.1" 200 -
 INFO _internal.py:122  * Running on http://192.168.3.31:8089/ (Press CTRL+C to quit)
 INFO _internal.py:122 192.168.3.31 - - [18/Sep/2019 17:37:44] "POST /uploadImg HTTP/1.1" 200 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
